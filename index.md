@@ -4,8 +4,9 @@ We inspire to make fun games for all people for all ages.
 
 # Our Games
 
-<img alt="/imgs/OrbitalLeap/Icon.png" width=250 height=250)>
+<img alt="/imgs/OrbitalLeap/Icon.png" width="250" height="250">
+
 Play with gravity in this endless runner. Leap through orbits to hit the target!
 [View](orbital-leap.md)
-<img alt="/imgs/KeepItUp/Icon.png" width=250 height=250)>
+<img alt="/imgs/KeepItUp/Icon.png" width="250" height="250">
 [View](keep-it-up.md)
