@@ -2,11 +2,8 @@
 
 <a href=""> <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/ios-download.png" width="250" height="87">
 </a>
-
 <a href="https://play.google.com/store/apps/details?id=com.carlschriever.Orbitz"> <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/android-download.png" width="250" height="87">
 </a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JucLfmZGLvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Description
 
@@ -21,6 +18,8 @@ Each obstacle is a source of gravity which only makes your task harder!
 Build streaks by hitting the target without missing. The larger your streak, the more points you get!
 
 Get extra points for close calls with the gravity sources...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JucLfmZGLvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Features:
 
