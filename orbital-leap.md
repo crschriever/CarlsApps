@@ -19,8 +19,6 @@ Build streaks by hitting the target without missing. The larger your streak, the
 
 Get extra points for close calls with the gravity sources...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JucLfmZGLvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Features:
 
 -   Play Orbital Leap for hours with endless, automatically generated content.
@@ -28,6 +26,10 @@ Get extra points for close calls with the gravity sources...
 -   Compete with your friends to get the best highscore on Google Play leaderboards.
 -   Unlock all of the items in the store.
 -   Tons of customizeable skins for your player.
+
+## Gallery
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JucLfmZGLvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
