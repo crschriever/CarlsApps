@@ -30,6 +30,8 @@ Get extra points for close calls with the gravity sources...
 -   Unlock all of the items in the store.
 -   Tons of customizeable skins for your player.
 
+---
+
 # Contact
 
 Feel free to contact us by emailing crschriever@gmail.com
