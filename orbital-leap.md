@@ -1,4 +1,7 @@
-![Orbital Leap Icon](/imgs/OrbitalLeap/Icon.png)
+<img alt="Orbital Leap Icon" href="/imgs/OrbitalLeap/Icon.png" width="250" height="250">
+
+# Description
+
 Play with gravity in this endless runner. Leap through orbits to hit the target!
 
 Orbital Leap is a chill, relaxing game about navigating through orbits to hit your target! Play this gravity simulator turned endless runner today!
