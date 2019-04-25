@@ -28,3 +28,7 @@ Get extra points for close calls with the gravity sources...
 -   Compete with your friends to get the best highscore on Google Play leaderboards.
 -   Unlock all of the items in the store.
 -   Tons of customizeable skins for your player.
+
+# Contact
+
+Feel free to contact us by emailing crschriever@gmail.com
