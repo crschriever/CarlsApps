@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Carl's Apps
 description: "Carl's Apps is an indie game company making fun games for all people to play!"
-show_downloads: "false"
+show_downloads: false
+github:
+    is_project_page: false
