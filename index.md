@@ -6,8 +6,9 @@ We inspire to make fun games for all people for all ages.
 
 ## Orbital Leap
 
-<a><img alt="Orbital Leap Icon" src="/CarlsApps/imgs/OrbitalLeap/Icon.png" width="250" height="250"></a>
-Play with gravity in this endless runner. Leap through orbits to hit the target!
+<img alt="Orbital Leap Icon" src="/CarlsApps/imgs/OrbitalLeap/Icon.png" width="250" height="250">  
+Play with gravity in this endless runner. Leap through orbits to hit the target!  
+[View](orbital-leap.md)
 
 ## Keep It Up
 
