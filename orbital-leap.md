@@ -36,7 +36,6 @@ Get extra points for close calls with the gravity sources...
 <img alt="Demo Image" src="/CarlsApps/imgs/OrbitalLeap/death_text.png" width="150" height="300">
 <img alt="Demo Image" src="/CarlsApps/imgs/OrbitalLeap/skin_text.png" width="150" height="300">
 <img alt="Demo Image" src="/CarlsApps/imgs/OrbitalLeap/crazy3.png" width="150" height="300">
-<img alt="Demo Image" src="/CarlsApps/imgs/OrbitalLeap/skin4.png" width="150" height="300">
 
 ---
 
