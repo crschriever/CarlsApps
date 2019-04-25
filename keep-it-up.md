@@ -32,7 +32,7 @@ Easy to learn but IMPOSSIBLE to master, you won't be able to put Keep It Up down
 
 ## Gallery
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Gexkl3TMIFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gexkl3TMIFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img alt="Demo Image" src="/CarlsApps/imgs/KeepItUp/Cave.png" width="300" height="150">
 <img alt="Demo Image" src="/CarlsApps/imgs/KeepItUp/CloseCall.png" width="300" height="150">
