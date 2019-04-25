@@ -1,8 +1,9 @@
 <img alt="Orbital Leap Icon" src="/CarlsApps/imgs/OrbitalLeap/Icon.png" width="250" height="250">
 
-<a href=""> <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/ios-download.png" width="381" height="132">
+<a href=""> <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/ios-download.png" width="250" height="87">
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.carlschriever.Orbitz"> <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/android-download.png" width="381" height="132">
+
+<a href="https://play.google.com/store/apps/details?id=com.carlschriever.Orbitz"> <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/android-download.png" width="250" height="87">
 </a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JucLfmZGLvg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

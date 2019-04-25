@@ -10,3 +10,7 @@ Play with gravity in this endless runner. Leap through orbits to hit the target!
 
 <img alt="KeepItUp Icon" src="/CarlsApps/imgs/KeepItUp/Icon.png" width="250" height="250">  
 [View](keep-it-up.md)
+
+# Contact
+
+Feel free to contact us by emailing crschriever@gmail.com
