@@ -14,7 +14,7 @@ Build streaks by hitting the target without missing. The larger your streak, the
 
 Get extra points for close calls with the gravity sources...
 
-Features:
+## Features:
 
 -   Play Orbital Leap for hours with endless, automatically generated content.
 -   Beautiful soundtrack and minimalist graphics.
