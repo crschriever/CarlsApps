@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 # Orbital Leap
 
 <img alt="Orbital Leap Icon" src="/CarlsApps/imgs/OrbitalLeap/Icon.png" width="400" height="400">
