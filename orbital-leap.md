@@ -1,7 +1,6 @@
 # Orbital Leap
 
 <div class="top-cont">
-    <img alt="Orbital Leap Icon" src="/CarlsApps/imgs/OrbitalLeap/Icon.png" class="display-img" width="400" height="400">
     <div>
         <a href="">
             <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/ios-download.png" width="200" height="85">
@@ -10,6 +9,7 @@
             <img alt="Download Orbital Leap iOS" src="/CarlsApps/imgs/android-download.png" width="200" height="85">
         </a>
     </div>
+    <img alt="Orbital Leap Icon" src="/CarlsApps/imgs/OrbitalLeap/Icon.png" class="display-img" width="400" height="400">
 </div>
 # Description
 
