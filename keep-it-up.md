@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 # Keep It Up!
 
 <img alt="Keep It Up! Icon" src="/CarlsApps/imgs/KeepItUp/Icon.png" width="400" height="400">
