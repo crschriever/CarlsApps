@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
-.page-header {
-    padding: 5px 96px
+// .page-header {
+//     padding: 5 96
+// }
+
+.display-img {
+    max-width: 50vw;
+    height: auto;
 }

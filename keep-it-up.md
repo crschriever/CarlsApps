@@ -1,6 +1,6 @@
 # Keep It Up!
 
-<img alt="Keep It Up! Icon" src="/CarlsApps/imgs/KeepItUp/Icon.png" width="400" height="400">
+<img alt="Keep It Up! Icon" src="/CarlsApps/imgs/KeepItUp/Icon.png" class="display-img" width="400" height="400">
 
 <a href="https://itunes.apple.com/us/app/keep-it-up-plane-game/id1456771133"> <img alt="Download Keep It Up! iOS" src="/CarlsApps/imgs/ios-download.png" width="200" height="85">
 </a>
