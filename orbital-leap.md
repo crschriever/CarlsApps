@@ -1,7 +1,7 @@
 ---
 title: Orbital Leap
 description: Mobile game for iOS and Android
-name: Ornital Leap
+name: Orbital Leap
 image: /CarlsApps/imgs/OrbitalLeap/Icon.png
 ---
 
