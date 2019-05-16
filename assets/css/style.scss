@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// .page-header {
+//     padding: 5 96
+// }
+
+.display-img {
+    max-width: 50vw;
+    height: auto;
+    margin: 0 auto;
+}
+
+.main-content img {
+    max-width: 50vw;    
+}
+
+.top-content {
+    display: flex;
+    align-items: center;
+}
