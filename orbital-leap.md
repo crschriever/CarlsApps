@@ -1,7 +1,7 @@
 ---
 title: Orbital Leap
 description: Mobile game for iOS and Android
-name: <meta property="og:site_name" content="Orbital Leap"/>
+name: Ornital Leap
 image: /CarlsApps/imgs/OrbitalLeap/Icon.png
 ---
 
