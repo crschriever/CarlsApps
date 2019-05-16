@@ -5,8 +5,6 @@ name: Orbital Leap
 image: /CarlsApps/imgs/OrbitalLeap/Icon.png
 ---
 
-# Orbital Leap
-
 <div class="top-cont">
     <div>
         <a href="https://itunes.apple.com/us/app/orbital-leap/id1458124129">
