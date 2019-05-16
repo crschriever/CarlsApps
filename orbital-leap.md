@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Orbital Leap
 description: Mobile game for iOS and Android
 name: Orbital Leap
