@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
-title: Carl's Apps
-description: "An Indie Game Company"
 show_downloads: false
 github:
     is_project_page: false
-logo: imgs/KeepItUp/Icon.png
